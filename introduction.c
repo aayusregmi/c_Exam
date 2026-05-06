@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    Printf("<------Introduction-------->");
+    printf("<------Introduction-------->\n");
     printf("Name : Aayus Regmi \t | University : Patan Multiple Campus \t | Passionate");
     return 0;
 }
